@@ -27,7 +27,7 @@ export default function BookingAgentLanding() {
       {/* Navigation */}
       <nav className="flex justify-between items-center px-8 py-6 max-w-7xl mx-auto border-b border-slate-800">
         <div className="text-xl font-bold tracking-wider text-amber-400 uppercase">
-          Fast Track Agency
+          First Kevington Agency
         </div>
         <a
           href="#contact"
@@ -238,7 +238,7 @@ export default function BookingAgentLanding() {
 
       {/* Footer */}
       <footer className="border-t border-slate-900 py-8 text-center text-slate-500 text-sm">
-        © {new Date().getFullYear()} Fast Track Agency. All rights reserved.
+        © {new Date().getFullYear()} First Kevington Agency. All rights reserved.
       </footer>
     </div>
   );
